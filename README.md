@@ -25,7 +25,7 @@
 ## :woman_technologist: About Me
 I am a Full Stack Developer from India, currently working as a System and application development associate at Accenture and contributing to frontend and backend for building web applications. 
 
-📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/manikantareddi/)
+📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Reddi%20Manikanta%20Surya%20Prasad-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/manikantareddi/)
 
 :hammer_and_wrench: Skills and Tools
 <div>
