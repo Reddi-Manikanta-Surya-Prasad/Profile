@@ -23,7 +23,7 @@
 </div>
 
 ## :woman_technologist: About Me
-I am a Full Stack Developer from India, currently working as a Software Engineer and contributing to frontend and backend for building web applications. I am also exploring Technical Content Writing in my free time and solving problems on GeeksforGeeks and reading tech articles.
+I am a Full Stack Developer from India, currently working as a System and application development associate at Accenture. and contributing to frontend and backend for building web applications. I am also exploring Technical Content Writing in my free time and solving problems on GeeksforGeeks and reading tech articles.
 
 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/manikantareddi/)
 
