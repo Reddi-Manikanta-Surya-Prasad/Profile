@@ -14,14 +14,13 @@
 </div>
   <img src="https://komarev.com/ghpvc/?username=Reddi-Manikanta-Surya-Prasad&color=blueviolet" alt="GitHub Profile Views"/>
 
-  <p>hey there &#128075;</p>
+  Hello there! 👋
   <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
   
 </div>
  
 </div>
-# Hello there! 👋
 
 ## :woman_technologist: About Me
 I am a Full Stack Developer from India, currently working as a Software Engineer and contributing to frontend and backend for building web applications. I am also exploring Technical Content Writing in my free time and solving problems on GeeksforGeeks and reading tech articles.
