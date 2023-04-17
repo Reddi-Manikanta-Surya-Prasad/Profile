@@ -12,6 +12,8 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
+  <img src="https://komarev.com/ghpvc/?username=Reddi-Manikanta-Surya-Prasad&color=blueviolet" alt="GitHub Profile Views"/>
+
   <p>hey there &#128075;</p>
 </div>
 
