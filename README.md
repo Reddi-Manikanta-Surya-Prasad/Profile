@@ -1,6 +1,6 @@
 ### Hi there 👋
 <div id="header" align="center">
-  <img src="https://giphy.com/stickers/pudgypenguins-data-code-coding-SHjOSDkKZ18qOHA5B5" width="100"/>
+  <img src="<iframe src="https://giphy.com/embed/wXTlDKOY0dFSfWU5cS" width="480" height="351" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/JUSTROCKET-justrocket-justrocketteam-justrocketcommunity-wXTlDKOY0dFSfWU5cS">via GIPHY</a></p>" width="100"/>
 </div>
 <!--
 **Reddi-Manikanta-Surya-Prasad/Reddi-Manikanta-Surya-Prasad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
