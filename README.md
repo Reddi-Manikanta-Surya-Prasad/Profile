@@ -48,7 +48,7 @@ I am a Full Stack Developer from India, currently working as a System and applic
 <img src="https://github.com/devicons/devicon/blob/master/icons/redhat/redhat-original-wordmark.svg" title="Red Hat Linux" alt="Red Hat Linux" width="40" height="40"/> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-plain-wordmark.svg" title="Terraform" alt="Terraform" width="40" height="40"/> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS CICD pipeline" alt="AWS CICD pipeline" width="40" height="40"/> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHub Pages" alt="GitHub Pages" width="40" height="40"/> 
 
 <!--
 **Reddi-Manikanta-Surya-Prasad/Reddi-Manikanta-Surya-Prasad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
