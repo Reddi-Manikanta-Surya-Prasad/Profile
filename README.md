@@ -49,7 +49,7 @@ I am a Full Stack Developer from India, currently working as a System and applic
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/> &nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-plain-wordmark.svg" title="Terraform" alt="Terraform" width="40" height="40"/> &nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHub Pages" alt="GitHub Pages" width="40" height="40"/> &nbsp;
-
+<img src="https://img.icons8.com/color/48/000000/shell-script.png" title="Shell Scripting" alt="Shell Scripting" width="40" height="40"/>&nbsp;
 <!--
 **Reddi-Manikanta-Surya-Prasad/Reddi-Manikanta-Surya-Prasad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
