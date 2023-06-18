@@ -23,7 +23,21 @@
 </div>
 
 ## :woman_technologist: About Me
-I am a DevOps Engineer from India, currently working as a Infra Managed Service associate at Accenture. My work profile in Accenture is Design and develop technologies, software products, or systems to align with business requirements. Create implementation or integration approach for applications and its components. Provide primary support for application releases into production, including deployment plan and schedule. Coordinate and fix defects or performance issues within Service Level Agreements. Analyze, design, build, and/or test new components or enhancements to existing modules and contributing to frontend and backend for building web applications. 
+As a results-driven Infra Managed Service Associate at Accenture, I specialize in building robust and scalable software solutions. With a strong passion for technology, I have gained valuable experience since joining in April 2022, working on diverse projects involving software application design, development, and implementation.
+
+My expertise extends to cloud computing and DevOps methodologies, as evidenced by my certifications as an AWS Solutions Architect, AWS DevOps Engineer, AZ-900 Azure Fundamentals, AZ-104 Azure Administrator, Oracle Cloud Infrastructure 2023 Foundations Associate, Oracle Cloud Data Management 2023 Foundations Associate, and Oracle Cloud Infrastructure Associate (1Z0-1085-23). These certifications validate my comprehensive knowledge and skills in cloud technologies and data management.
+
+I am adept at leveraging cloud platforms such as AWS, Azure, and Oracle Cloud Infrastructure to optimize application performance, enable efficient deployment and management, and ensure robust data handling.
+
+Throughout my career, I have successfully completed various projects, including the implementation of cloud-native solutions, migration of on-premises infrastructure to the cloud, and the design of scalable and secure architectures. I have also played a key role in driving automation and continuous integration/continuous deployment (CI/CD) processes to enhance development efficiency and shorten time to market.
+
+In addition to my technical skills, I have cultivated strong project management abilities, ensuring the successful delivery of projects within scope, timeline, and budget. I excel in collaborating with cross-functional teams, fostering effective communication and coordination.
+
+Outside of work, I am actively involved in extracurricular activities such as Kabaddi, which has not only helped me develop discipline and perseverance but also enhanced my ability to work collaboratively in a team environment. I have also taken on leadership roles in college sections, leading and guiding my peers to achieve common goals.
+
+I am a lifelong learner, continuously staying updated with the latest industry trends and exploring new technologies. I actively contribute to open-source projects and engage in online communities to share knowledge and learn from industry experts.
+
+If you are searching for a motivated and skilled DevOps Engineer with expertise in AWS, Azure, and Oracle Cloud Infrastructure, I am eager to discuss how my certifications and experience can benefit your organization. Let's connect and explore possibilities for mutual growth.
 
 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Reddi%20Manikanta%20Surya%20Prasad-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/manikantareddi/)
 
