@@ -49,5 +49,6 @@ I am a DevOps Engineer from India, currently working as a Infra Managed Service 
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/> &nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-plain-wordmark.svg" title="Terraform" alt="Terraform" width="40" height="40"/> &nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHub Pages" alt="GitHub Pages" width="40" height="40"/> &nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/microsoftazure/microsoftazure-plain-wordmark.svg" title="Microsoft Azure" alt="Microsoft Azure" width="40" height="40"/> &nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original-wordmark.svg" title="Azure" alt="Azure" width="40" height="40"/>
+ &nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" title="Oracle Cloud Infrastructure" alt="Oracle Cloud Infrastructure" width="40" height="40"/> &nbsp;
