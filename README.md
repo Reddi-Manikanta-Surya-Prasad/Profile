@@ -23,7 +23,7 @@
 </div>
 
 ## :woman_technologist: About Me
-I am a Full Stack Developer from India, currently working as a System and application development associate at Accenture. My work profile in Accenture is Design and develop technologies, software products, or systems to align with business requirements. Create implementation or integration approach for applications and its components. Provide primary support for application releases into production, including deployment plan and schedule. Coordinate and fix defects or performance issues within Service Level Agreements. Analyze, design, build, and/or test new components or enhancements to existing modules and contributing to frontend and backend for building web applications. 
+I am a DevOps Engineer from India, currently working as a Infra Managed Service associate at Accenture. My work profile in Accenture is Design and develop technologies, software products, or systems to align with business requirements. Create implementation or integration approach for applications and its components. Provide primary support for application releases into production, including deployment plan and schedule. Coordinate and fix defects or performance issues within Service Level Agreements. Analyze, design, build, and/or test new components or enhancements to existing modules and contributing to frontend and backend for building web applications. 
 
 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Reddi%20Manikanta%20Surya%20Prasad-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/manikantareddi/)
 
