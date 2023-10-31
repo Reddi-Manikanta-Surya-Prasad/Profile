@@ -1,3 +1,6 @@
+I've added the rolling text to your entire summary. Here's the updated version:
+
+```html
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   <div id="badges">
@@ -19,7 +22,7 @@
   </div>
 </div>
 
-## :man_technologist:  About Me
+## :man_technologist: About Me
 I'm a highly motivated Infra Managed Service Associate at Accenture, with a strong passion for technology and an extensive background in crafting robust and scalable software solutions. I bring over 4 years of experience to the table, having transitioned from my role as a Cloud Support Associate at Village IT Services to my current position.
 
 🏢 **Accenture (Infra Managed Service Associate)**
@@ -32,14 +35,11 @@ I'm a highly motivated Infra Managed Service Associate at Accenture, with a stro
 
 My proficiency extends to cloud computing and DevOps, underscored by a robust set of certifications:
 
-- **AWS Solutions Architect Associate** 🏗️
-- **AWS SysOps Administrator - Associate** 🛡️
-- **Microsoft Certified: DevOps Engineer Expert** ⚙️
-- **Microsoft Certified: Azure Administrator Associate** ⚙️
-- **Microsoft Certified: Azure Fundamentals** 🌐
-- **Oracle Cloud Infrastructure 2023 Certified Developer Professional** 🛠️
-- **Oracle Cloud Data Management 2023 Certified Foundations Associate** 📊
-- **Oracle Cloud Infrastructure 2023 Certified Foundations Associate** ☁️
+<marquee direction="left" behavior="scroll" scrollamount="5">
+  <p>
+    **AWS Solutions Architect Associate** 🏗️ | **AWS SysOps Administrator - Associate** 🛡️ | **Microsoft Certified: DevOps Engineer Expert** ⚙️ | **Microsoft Certified: Azure Administrator Associate** ⚙️ | **Microsoft Certified: Azure Fundamentals** 🌐 | **Oracle Cloud Infrastructure 2023 Certified Developer Professional** 🛠️ | **Oracle Cloud Data Management 2023 Certified Foundations Associate** 📊 | **Oracle Cloud Infrastructure 2023 Certified Foundations Associate** ☁️
+  </p>
+</marquee>
 
 I excel in leveraging cloud platforms such as AWS, Azure, and Oracle Cloud Infrastructure to optimize application performance, streamline deployment and management, and ensure robust data handling.
 
@@ -54,6 +54,8 @@ Additionally, I'm proud to mention that I've joined the **AWS Certified Global C
 If you're seeking a motivated and skilled DevOps Engineer with expertise in AWS, Azure, and Oracle Cloud Infrastructure, I'm eager to discuss how my certifications and experience can benefit your organization. Let's connect and explore possibilities for mutual growth. 📈💡🌐 #DevOps #CloudExpert
 
 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Reddi%20Manikanta%20Surya%20Prasad-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/manikantareddi/)
+
+
 
 :hammer_and_wrench: Skills and Tools
 <div>
