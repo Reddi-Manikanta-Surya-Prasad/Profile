@@ -19,7 +19,7 @@
   </div>
 </div>
 
-## :woman_technologist: About Me
+## :man_technologist:  About Me
 I'm a highly motivated Infra Managed Service Associate at Accenture, with a strong passion for technology and an extensive background in crafting robust and scalable software solutions. I bring over 4 years of experience to the table, having transitioned from my role as a Cloud Support Associate at Village IT Services to my current position.
 
 🏢 **Accenture (Infra Managed Service Associate)**
