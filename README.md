@@ -5,14 +5,14 @@
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
     <a href="https://leetcode.com/Reddi_Manikanta/">
-      <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Badge"/>
+      <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt "LeetCode Badge"/>
     </a>
     <a href="your-twitter-URL">
       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a>
   </div>
   <img src="https://komarev.com/ghpvc/?username=Reddi-Manikanta-Surya-Prasad&color=blueviolet" alt="GitHub Profile Views"/>
-  
+
   Hello there! 👋
   <div align="center">
     <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
@@ -34,7 +34,7 @@ My proficiency extends to cloud computing and DevOps, underscored by a robust se
 
 <marquee direction="left" behavior="scroll" scrollamount="5">
   <p>
-AWS SysOps Administrator - Associate 🛡️ | AWS Solutions Architect Associate 🏗️  | AWS Certified DevOps Engineer – Professional ⚙️| Microsoft Certified: Azure Fundamentals 🌐 | Microsoft Certified: Azure Administrator Associate ⚙️ |  Microsoft Certified: DevOps Engineer Expert ⚙️ |  Oracle Cloud Infrastructure 2023 Certified Foundations Associate ☁️ | Oracle Cloud Data Management 2023 Certified Foundations Associate 📊 | Oracle Cloud Infrastructure 2023 Certified Developer Professional 🛠️ 
+    <span style="color: #000080;">AWS SysOps Administrator - Associate 🛡️ | AWS Solutions Architect Associate 🏗️ | AWS Certified DevOps Engineer – Professional ⚙️ | Microsoft Certified: Azure Fundamentals 🌐 | Microsoft Certified: Azure Administrator Associate ⚙️ | Microsoft Certified: DevOps Engineer Expert ⚙️ | Oracle Cloud Infrastructure 2023 Certified Foundations Associate ☁️ | Oracle Cloud Data Management 2023 Certified Foundations Associate 📊 | Oracle Cloud Infrastructure 2023 Certified Developer Professional 🛠️</span>
   </p>
 </marquee>
 
@@ -51,6 +51,7 @@ Additionally, I'm proud to mention that I've joined the **AWS Certified Global C
 If you're seeking a motivated and skilled DevOps Engineer with expertise in AWS, Azure, and Oracle Cloud Infrastructure, I'm eager to discuss how my certifications and experience can benefit your organization. Let's connect and explore possibilities for mutual growth. 📈💡🌐 #DevOps #CloudExpert
 
 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Reddi%20Manikanta%20Surya%20Prasad-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/manikantareddi/)
+
 
 
 
