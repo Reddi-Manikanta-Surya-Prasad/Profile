@@ -34,16 +34,17 @@ My proficiency extends to cloud computing and DevOps, underscored by a robust se
 
 <marquee direction="left" behavior="scroll" scrollamount="5">
   <p>
-<span style="color: #000080;">AWS SysOps Administrator - Associate 🛡️</span> <br>
-<span style="color: #000080;">AWS Solutions Architect Associate 🏗️</span> <br>
-<span style="color: #000080;">AWS Certified DevOps Engineer – Professional ⚙️</span> <br>
-<span style="color: #000080;">Microsoft Certified: Azure Fundamentals 🌐</span> <br>
-<span style="color: #000080;">Microsoft Certified: Azure Administrator Associate ⚙️</span> <br>
-<span style="color: #000080;">Microsoft Certified: DevOps Engineer Expert ⚙️</span> <br>
-<span style="color: #000080;">Oracle Cloud Infrastructure 2023 Certified Foundations Associate ☁️</span> <br>
-<span style="color: #000080;">Oracle Cloud Data Management 2023 Certified Foundations Associate 📊</span> <br>
-<span style="color: #000080;">Oracle Cloud Infrastructure 2023 Certified Developer Professional 🛠️</span>
-
+<ul>
+  <li><span style="color: #000080;">AWS SysOps Administrator - Associate 🛡️</span></li>
+  <li><span style="color: #000080;">AWS Solutions Architect Associate 🏗️</span></li>
+  <li><span style="color: #000080;">AWS Certified DevOps Engineer – Professional ⚙️</span></li>
+  <li><span style="color: #000080;">Microsoft Certified: Azure Fundamentals 🌐</span></li>
+  <li><span style="color: #000080;">Microsoft Certified: Azure Administrator Associate ⚙️</span></li>
+  <li><span style="color: #000080;">Microsoft Certified: DevOps Engineer Expert ⚙️</span></li>
+  <li><span style="color: #000080;">Oracle Cloud Infrastructure 2023 Certified Foundations Associate ☁️</span></li>
+  <li><span style="color: #000080;">Oracle Cloud Data Management 2023 Certified Foundations Associate 📊</span></li>
+  <li><span style="color: #000080;">Oracle Cloud Infrastructure 2023 Certified Developer Professional 🛠️</span></li>
+</ul>
   </p>
 </marquee>
 
