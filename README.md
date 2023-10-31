@@ -23,21 +23,39 @@
 </div>
 
 ## :woman_technologist: About Me
-As a results-driven Infra Managed Service Associate at Accenture, I specialize in building robust and scalable software solutions. With a strong passion for technology, I have gained valuable experience since joining in April 2022, working on diverse projects involving software application design, development, and implementation.
+I'm a highly motivated Infra Managed Service Associate at Accenture, with a strong passion for technology and an extensive background in crafting robust and scalable software solutions. I bring over 4 years of experience to the table, having transitioned from my role as a Cloud Support Associate at Village IT Services to my current position.
 
-My expertise extends to cloud computing and DevOps methodologies, as evidenced by my certifications as an AWS Solutions Architect, AWS DevOps Engineer, AZ-900 Azure Fundamentals, AZ-104 Azure Administrator, Oracle Cloud Infrastructure 2023 Foundations Associate, Oracle Cloud Data Management 2023 Foundations Associate, and Oracle Cloud Infrastructure Associate (1Z0-1085-23). These certifications validate my comprehensive knowledge and skills in cloud technologies and data management.
+🏢 Accenture (Infra Managed Service Associate)
+- April 2022 - Present (1 year 7 months)
+- In my role here, I've been at the forefront of designing and developing software solutions that precisely align with business requirements. I've crafted implementation and integration approaches for applications, ensuring seamless functionality. Additionally, I've taken charge of primary support for application releases into production, meticulously planning and scheduling deployments. Whenever defects or performance issues arise within Service Level Agreements, I've been quick to coordinate and resolve them, ensuring minimal downtime. My dedication to enhancing system performance is evident through my thorough analysis, design, building, and testing of new components.
 
-I am adept at leveraging cloud platforms such as AWS, Azure, and Oracle Cloud Infrastructure to optimize application performance, enable efficient deployment and management, and ensure robust data handling.
+🏢 Village IT Services Private Limited (Cloud Support Associate)
+- March 2019 - March 2022 (3 years 1 month)
+- During my time at Village IT Services, I specialized in deploying and managing web and mobile projects on AWS cloud infrastructure. I not only provided exceptional technical support but also optimized resource utilization, resulting in cost savings and improved project performance. Meticulous planning was a cornerstone of my approach, leading to flawless project execution. I stayed ahead of cloud technology advancements and actively contributed to fostering innovation in cloud-supported development.
 
-Throughout my career, I have successfully completed various projects, including the implementation of cloud-native solutions, migration of on-premises infrastructure to the cloud, and the design of scalable and secure architectures. I have also played a key role in driving automation and continuous integration/continuous deployment (CI/CD) processes to enhance development efficiency and shorten time to market.
+My proficiency extends to cloud computing and DevOps, underscored by a robust set of certifications:
 
-In addition to my technical skills, I have cultivated strong project management abilities, ensuring the successful delivery of projects within scope, timeline, and budget. I excel in collaborating with cross-functional teams, fostering effective communication and coordination.
+- AWS Certified DevOps Engineer – Professional ⚙️
+- AWS Solutions Architect Associate 🏗️
+- AWS SysOps Administrator - Associate 🛡️
+- Microsoft Certified: DevOps Engineer Expert ⚙️
+- Microsoft Certified: Azure Administrator Associate ⚙️
+- Microsoft Certified: Azure Fundamentals 🌐
+- Oracle Cloud Infrastructure 2023 Certified Developer Professional 🛠️
+- Oracle Cloud Data Management 2023 Certified Foundations Associate 📊
+- Oracle Cloud Infrastructure 2023 Certified Foundations Associate ☁️
 
-Outside of work, I am actively involved in extracurricular activities such as Kabaddi, which has not only helped me develop discipline and perseverance but also enhanced my ability to work collaboratively in a team environment. I have also taken on leadership roles in college sections, leading and guiding my peers to achieve common goals.
+I excel in leveraging cloud platforms such as AWS, Azure, and Oracle Cloud Infrastructure to optimize application performance, streamline deployment and management, and ensure robust data handling.
 
-I am a lifelong learner, continuously staying updated with the latest industry trends and exploring new technologies. I actively contribute to open-source projects and engage in online communities to share knowledge and learn from industry experts.
+My career is marked by successful projects, including the implementation of cloud-native solutions, migration of on-premises infrastructure to the cloud, and the design of scalable and secure architectures. I've played a pivotal role in driving automation and CI/CD processes, enhancing development efficiency and reducing time to market.
 
-If you are searching for a motivated and skilled DevOps Engineer with expertise in AWS, Azure, and Oracle Cloud Infrastructure, I am eager to discuss how my certifications and experience can benefit your organization. Let's connect and explore possibilities for mutual growth.
+Moreover, my strong project management abilities ensure successful project delivery within scope, timeline, and budget. I thrive in collaborative environments, excelling in cross-functional team collaboration and effective communication.
+
+Outside of work, I actively engage in extracurricular activities, such as Kabaddi, which have instilled discipline, teamwork, and leadership skills. I remain a dedicated lifelong learner, staying updated with the latest industry trends and exploring new technologies. I actively contribute to open-source projects and participate in online communities to share knowledge and learn from industry experts.
+
+Additionally, I'm proud to mention that I've joined the AWS Certified Global Community, further enhancing my network and expertise.
+
+If you're seeking a motivated and skilled DevOps Engineer with expertise in AWS, Azure, and Oracle Cloud Infrastructure, I'm eager to discuss how my certifications and experience can benefit your organization. Let's connect and explore possibilities for mutual growth. 📈💡🌐 #DevOps #CloudExpert
 
 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Reddi%20Manikanta%20Surya%20Prasad-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/manikantareddi/)
 
