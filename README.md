@@ -34,7 +34,7 @@ My proficiency extends to cloud computing and DevOps, underscored by a robust se
 
 <marquee direction="left" behavior="scroll" scrollamount="5">
   <p>
-    **AWS Solutions Architect Associate** 🏗️ | **AWS SysOps Administrator - Associate** 🛡️ | **Microsoft Certified: DevOps Engineer Expert** ⚙️ | **Microsoft Certified: Azure Administrator Associate** ⚙️ | **Microsoft Certified: Azure Fundamentals** 🌐 | **Oracle Cloud Infrastructure 2023 Certified Developer Professional** 🛠️ | **Oracle Cloud Data Management 2023 Certified Foundations Associate** 📊 | **Oracle Cloud Infrastructure 2023 Certified Foundations Associate** ☁️
+    AWS Solutions Architect Associate 🏗️ | AWS SysOps Administrator - Associate 🛡️ | Microsoft Certified: DevOps Engineer Expert ⚙️ | Microsoft Certified: Azure Administrator Associate ⚙️ | Microsoft Certified: Azure Fundamentals 🌐 | Oracle Cloud Infrastructure 2023 Certified Developer Professional 🛠️ | Oracle Cloud Data Management 2023 Certified Foundations Associate 📊 | Oracle Cloud Infrastructure 2023 Certified Foundations Associate ☁️
   </p>
 </marquee>
 
